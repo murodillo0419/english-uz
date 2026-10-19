@@ -12,7 +12,8 @@ window.TOPICS = [
       { en: 'no', uz: "yo'q" },
       { en: 'good morning', uz: 'xayrli tong' },
       { en: 'how are you', uz: 'qalaysiz' },
-      { en: 'nice to meet you', uz: 'tanishganimdan xursandman' }
+      { en: 'nice to meet you', uz: 'tanishganimdan xursandman' },
+      { en: 'good afternoon', uz: 'xayrli kun' }
     ]
   },
   {
