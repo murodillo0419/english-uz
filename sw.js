@@ -1,5 +1,5 @@
 // Oddiy service worker: sayt oflayn ham ochilishi uchun
-const CACHE = 'english-uz-v1';
+const CACHE = 'english-uz-v2';
 const FILES = ['./', 'index.html', 'style.css', 'data.js', 'app.js'];
 
 self.addEventListener('install', e => {
