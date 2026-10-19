@@ -43,6 +43,7 @@ window.TOPICS = [
       { en: 'milk', uz: 'sut' },
       { en: 'egg', uz: 'tuxum' },
       { en: 'soup', uz: "sho'rva" },
+      { en: 'salt', uz: "tuz" }
       { en: 'delicious', uz: 'mazali' }
     ]
   },
