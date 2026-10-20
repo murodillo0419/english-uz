@@ -74,6 +74,7 @@ window.TOPICS = [
       { en: 'problem', uz: 'muammo' },
       { en: 'solution', uz: 'yechim' },
       { en: 'install', uz: "o'rnatmoq" },
+      { en: 'paper', uz: "qog'oz" },
       { en: 'support', uz: "qo'llab-quvvatlash" }
     ]
   }
